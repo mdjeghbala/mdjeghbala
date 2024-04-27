@@ -14,4 +14,4 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=py,html,css,php,mysql,java,dart,flutter,js,nodejs,mongodb,express,eclipse,androidstudio,postman,git,github,visualstudio,vscode&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,html,css,php,mysql,java,dart,flutter,js,cs,unity,eclipse,androidstudio,postman,git,github,visualstudio,pycharm,vscode&perline=6)](https://skillicons.dev)
